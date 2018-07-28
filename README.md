@@ -1,2 +1,4 @@
 # MLB-Team-Win-Predictor
-Major League Baseball Win predictor. Linear Models used on Sean Laham DataSet http://www.seanlahman.com/baseball-archive/statistics/
+Major League Baseball Win predictor. Linear Models used on  <a href="http://www.seanlahman.com/baseball-archive/statistics/">Sean Laham DataSet</a>
+
+
